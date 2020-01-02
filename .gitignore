@@ -14,3 +14,5 @@ vendor
 *.doc
 *.xml
 *.xls
+ShapePrototype.php
+FilePrototype.php
