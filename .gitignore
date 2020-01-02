@@ -1,5 +1,4 @@
-project-Guilainchorale.odt
-filesjqueryuploadfile.odt
+vendor
 *.py[oc]
 *.png
 *.odt
@@ -11,4 +10,7 @@ filesjqueryuploadfile.odt
 *.json
 *.jpg
 *.jpeg
-
+*.csv
+*.doc
+*.xml
+*.xls
