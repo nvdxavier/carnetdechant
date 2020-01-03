@@ -1,1 +1,12 @@
+body{
+    background-color: gainsboro;
+}
+.listefichier{ background-color: #f9f8d6;}
 
+.fontChorale{
+    font-family: 'Lobster', cursive;
+    color: #105171;
+}
+.listbackground{
+    background-color: #e3e29f;
+}

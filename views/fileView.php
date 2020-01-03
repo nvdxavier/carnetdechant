@@ -10,7 +10,6 @@ $filesReady = $fileController->renderManifest();
 
 
 ?>
-
         <div id="filescontainer" class="col-lg-12 col-md-12 col-sm-auto" >
             <div id="myfiles">
 <?php
@@ -25,7 +24,7 @@ $filesReady = $fileController->renderManifest();
                 foreach ($filesReady as &$val) {
                     echo "
                     <div class=\"list-group\">
-                            <button type=\"button\" class=\"list-group-item list-group-item-action\" data-toggle=\"modal\" data-target=\"#exampleModal".$val->id."\">
+                            <button type=\"button\" class=\"list-group-item list-group-item-action listbackground\" data-toggle=\"modal\" data-target=\"#exampleModal".$val->id."\">
                                 ".$val->filename."
                             </button>
                             
@@ -54,5 +53,6 @@ $filesReady = $fileController->renderManifest();
             ?>
             </div>
         </div>
+    </div>
 
 
