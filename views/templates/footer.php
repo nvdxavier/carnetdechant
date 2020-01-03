@@ -1,5 +1,7 @@
+
+</div><p></p>
 </div>
-</div>
+<footer class="container py-5"><a href="mailto:nvdxavier@yahoo.com">nvdxavier@yahoo.com</a></footer>
 <script src="<?php echo ROOT_VIEWS; ?>js/jquery-3.4.1.min.js"></script>
 <script src="<?php echo ROOT_VIEWS; ?>js/bootstrap.bundle.js"></script>
 <script src="<?php echo ROOT_VIEWS; ?>js/bootstrap.js"></script>
